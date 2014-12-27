@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherInfoApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_get_weather">get_weather</string>
+    <string name="FILTER_WEATHER">FILTER_WEATHER</string>
+
+</resources>
